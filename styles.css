@@ -10,4 +10,10 @@ body{
       font-size: 50px;
       color:black;
   }
-  
+  h2{
+      font-weight: bolder;
+      font-size: 40px;
+  }
+  label{
+      font-size: 30px;
+  }
