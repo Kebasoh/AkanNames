@@ -36,6 +36,8 @@
 
  - At the gender one is required to click on his/her sex where he/she belongs and then submit at the submit button in order to get his/her name in Ghanian Akan Names.
 
+## Project's live Link
+ - Github link: https://kebasoh.github.io/AkanNames/
 ## Contact information.
  - Email: ongatikebaso@gmail.com.
  - Phone-No: 0797657305/0795663799.
