@@ -41,6 +41,8 @@
 <img src="images/gender&submit.jpg" alt="picture">
 
  - At the gender one is required to click on his/her sex where he/she belongs and then submit at the submit button in order to get his/her name in Ghanian Akan Names.
+ - Finally after submiting your datails you Akan Name will be displayed below the submition button.
+ - Exampple; You were born on Saturday,your akan name is Kwame.
 
 ## Project's live Link
  - Github link: https://kebasoh.github.io/AkanNames/
