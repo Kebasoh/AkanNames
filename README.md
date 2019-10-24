@@ -7,6 +7,12 @@
 ## Setup instructions 
  - You need to have your folder that contains the css, images,js and the style.css in order to have your website.
  - The website requires data in order to function.
+
+## Technology Used
+ - HTML-We used html for displaying the content.
+ - CSS-We used css and bootstrap for styling the front-end of the website and making the landing page.
+ - JAVASCRIPT-We used javascript for dynamics.
+
 ## BDD.
 
 
