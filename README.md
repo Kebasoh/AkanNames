@@ -1,11 +1,12 @@
 ## Project name.
 - AKAN NAMES
 ## Project description.
-- The project is basically explains how G
+- The project is basically explains how one can get his/her name in Akan names in Ghanian depending with gender and the time he/she was born.
 ## Author(s) information.
-
+ - KEBASO STEVE ONGATI
 ## Setup instructions 
-
+ - You need to have your folder that contains the css, images,js and the style.css in order to have your website.
+ - The website requires data in order to function.
 ## BDD.
 
 
@@ -21,17 +22,22 @@
  - This is a place holder where one enters the date of the day that one was born in order to be read in the website.
  - The dates are written in numbers e.g ; 12.
 
-<img src="images/month.jpg" alt="picture">;
+<img src="images/month.jpg" alt="picture">
 
  -  This is a place holder where one enters the month of the year that one was born in order to be read in the website.
  - The month is written in numbers e.g ; 12.
 
- <img src="images/year.jpg" alt="picture">;
+ <img src="images/year.jpg" alt="picture">
 
  -  This is a place holder where one enters the year  that one was born in order to be read in the website.
  - The year is written in numbers e.g ; 1998.
 
+<img src="images/gender&submit.jpg" alt="picture">
+
+ - At the gender one is required to click on his/her sex where he/she belongs and then submit at the submit button in order to get his/her name in Ghanian Akan Names.
 
 ## Contact information.
-
+ - Email: ongatikebaso@gmail.com.
+ - Phone-No: 0797657305/0795663799.
 ## License and Copyright information.
+ - MIT License Copyright (c) 2019 (Kebaso Steve Ongati)
