@@ -36,10 +36,10 @@ function output() {
  var gender = 'female';
  }
  if (mm < 1 || mm > 12 || mm == 2 && dd > 29) {
- alert("invalid month");
+ alert("INVALID MONTH");
  }
  else if (dd < 1 || dd > 31) {
- alert("invalid date");
+ alert("INVALID DAY");
  }
 
  // math.round(result) == // && gender ==='male' //
@@ -137,7 +137,7 @@ function output() {
  ("Born on Sunday,your akan name is " + girlNames[0]);
  }
 
- 
+
  else {
  alert("enter your information please");
  }
