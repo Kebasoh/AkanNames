@@ -2,7 +2,7 @@
 - AKAN NAMES
 ## Project description.
 - The project is basically explains how one can get his/her name in Akan names in Ghanian depending with gender and the time he/she was born.
-## Author(s) information.
+## Author information.
  - KEBASO STEVE ONGATI
 ## Setup instructions 
  - You need to have your folder that contains the css, images,js and the style.css in order to have your website.
