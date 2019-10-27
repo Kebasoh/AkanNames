@@ -54,11 +54,8 @@ function output() {
    
     // math.round(result) == // && gender ==='male' //
    
-    {
-    if (Math.ceil(result) == 1 && gender === 'male');
-    }
-   
-    {
+    
+    else if (Math.ceil(result) == 1 && gender === 'male');{
     document.getElementById("outcome").innerHTML =
     ("Born on Monday ,your akan name is " + boy[1]);
     }
