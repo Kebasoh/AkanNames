@@ -5,8 +5,13 @@
 ## Author information.
  - KEBASO STEVE ONGATI
 ## Setup instructions 
- - You need to have your folder that contains the css, images,js and the style.css in order to have your website.
- - The website requires data in order to function.
+ - git clone or download the zip file.
+
+ - Extract the zip file.
+
+ - cd project folder.
+
+ - launch the index.html file.
 
 ## Technology Used
  - HTML-We used html for displaying the content.
